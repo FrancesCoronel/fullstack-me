@@ -1,4 +1,4 @@
-![](assets/logos/fullstack/fullstack-academy-logo-color-on-white.png)
+![](assets/fullstack-logo.png)
 
 # fullstack-me
 
@@ -31,21 +31,23 @@ Fullstack Academy has expanded **A LOT** since first launching in 2012, with cam
 
 Their primary and most popular program is still the [Software Engineering Immersive](https://www.fullstackacademy.com/software-engineering-immersive) which runs for 17 weeks total with 4 weeks involving remote learning.
 
+![](assets/presentation.jpg)
+
 For those who want to do the program part-time on campus, there's the [Flex Immersive](https://www.fullstackacademy.com/flex-immersive) option which is a total of 32 weeks and operates through week-night classes with plenty of remote lecture and project time.
 
 Or for those who don't have the chance to be on campus at all, there's the [Remote Immersive](https://www.fullstackacademy.com/remote-immersive) option which is basically the same as the Software Engineering Immersive but entirely online.
 
 In the summer of 2015, Fullstack started offering the [Summer of Code](https://www.fullstackacademy.com/summer-of-code) program which is an 11-week coding immersive for college students in NYC and Chicago. I was part of the first batch!
 
-![](assets/soc/students.jpg)
+![](assets/fullstack-soc.png)
 
 In early 2016, Fullstack launched [Grace Hopper Academy](https://www.gracehopper.com/) which opened as a parallel program to the Software Engineering Immersive at Fullstack and is one of the few immersive software engineering courses for women with no upfront tuition cost.
 
-![](assets/logos/grace-hopper/grace-hopper-logo-color-on-white.png)
+![](assets/grace-hopper-logo.png)
 
 Also, in early 2016, Fullstack acquired [Starter League](http://www.starterleague.com/) and expanded its campuses in Chicago.
 
-![](assets/logos/starter-league/the-starter-league-logo-color-on-white.png)
+![](assets/starter-league-logo.png)
 
 To help students prepare for entering these rigorous programs, Fullstack Academy also started recently offering three different options:
 
@@ -62,7 +64,7 @@ It should be noted all these programs are offered in both campuses (NYC and Chic
 
 I graduated from the inaugural class for Fullstack Academy's [Summer of Code](https://www.fullstackacademy.com/summer-of-code) program in 2015 and I definitely **loved** my experience. 😍
 
-![I'm the awkward one on the bottom right](assets/soc/goodbyes.jpg)
+![I'm the awkward one on the bottom right](assets/fullstack-soc-hug.jpg)
 
 Since graduating, I've gone on to have interviews and speak at conferences about my experience as well as have my content circulated to Fullstack Academy students.
 
