@@ -1,4 +1,4 @@
-![](assets/fullstack-logo.png)
+![](assets/img/fullstack-logo.png)
 
 # fullstack-me
 
@@ -13,7 +13,7 @@ As a alumnus of Fullstack Academy myself, I just want to create something that w
 ## Table of Contents
 
 - [Programs Available](#programs-available) 🎉
-    + [My Personal Journey](#my-personal-journey) 🍓
+    + [My Personal Journey](#my-personal-journey) 😍
 - [Research](#research) 🔍
     + [Reviews](#reviews) ⭐⭐⭐⭐⭐
     + [Helpful Tips](#helpful-tips) 📌
@@ -22,16 +22,14 @@ As a alumnus of Fullstack Academy myself, I just want to create something that w
     + [Resources to Just Learn](#resources-to-just-learn) 🎒
 - [Pricing](#pricing) 💸
     + [Housing Options](#housing-options) 🏠
-- [Contributing](#contributing) 👥
-- [Credits](#credits) ©
 
-## [Programs Available](#programs-available) 🎉
+## Programs Available
 
-Fullstack Academy has expanded **A LOT** since first launching in 2012, with campuses in both NYC and Chicago.
+Fullstack Academy has expanded **A LOT** since first launching in 2012, with campuses in both NYC and Chicago. 🎉
 
 Their primary and most popular program is still the [Software Engineering Immersive](https://www.fullstackacademy.com/software-engineering-immersive) which runs for 17 weeks total with 4 weeks involving remote learning.
 
-![](assets/presentation.jpg)
+![](assets/img/presentation.jpg)
 
 For those who want to do the program part-time on campus, there's the [Flex Immersive](https://www.fullstackacademy.com/flex-immersive) option which is a total of 32 weeks and operates through week-night classes with plenty of remote lecture and project time.
 
@@ -39,15 +37,15 @@ Or for those who don't have the chance to be on campus at all, there's the [Remo
 
 In the summer of 2015, Fullstack started offering the [Summer of Code](https://www.fullstackacademy.com/summer-of-code) program which is an 11-week coding immersive for college students in NYC and Chicago. I was part of the first batch!
 
-![](assets/fullstack-soc.png)
+![](assets/img/fullstack-soc.png)
 
 In early 2016, Fullstack launched [Grace Hopper Academy](https://www.gracehopper.com/) which opened as a parallel program to the Software Engineering Immersive at Fullstack and is one of the few immersive software engineering courses for women with no upfront tuition cost.
 
-![](assets/grace-hopper-logo.png)
+![](assets/img/grace-hopper-logo.png)
 
 Also, in early 2016, Fullstack acquired [Starter League](http://www.starterleague.com/) and expanded its campuses in Chicago.
 
-![](assets/starter-league-logo.png)
+![](assets/img/starter-league-logo.png)
 
 To help students prepare for entering these rigorous programs, Fullstack Academy also started recently offering three different options:
 
@@ -60,11 +58,11 @@ To help students prepare for entering these rigorous programs, Fullstack Academy
 
 It should be noted all these programs are offered in both campuses (NYC and Chicago) with the exception of Grace Hopper which just operates in NYC.
 
-### [My Personal Journey](#my-personal-journey) 🍓
+### My Personal Journey
 
 I graduated from the inaugural class for Fullstack Academy's [Summer of Code](https://www.fullstackacademy.com/summer-of-code) program in 2015 and I definitely **loved** my experience. 😍
 
-![I'm the awkward one on the bottom right](assets/fullstack-soc-hug.jpg)
+![I'm the awkward one on the bottom right](assets/img/fullstack-soc-hug.jpg)
 
 Since graduating, I've gone on to have interviews and speak at conferences about my experience as well as have my content circulated to Fullstack Academy students.
 
@@ -81,11 +79,11 @@ Here are some other creations of mine related to my time at Fullstack and afterw
 -  [Summer of Code Experience - Slide Deck](https://speakerdeck.com/fvcproductions/my-fullstack-academy-summer-of-code-experience)
 -  [Web Design Tech Talk - Slide Deck](https://speakerdeck.com/fvcproductions/web-design-tech-talk)
 
-## [Research](#research) 🔍
+## Research
 
-The first step in making sure Fullstack Academy is the right choice for you is by doing your research!
+The first step in making sure Fullstack Academy is the right choice for you is by doing your research! 🔍
 
-**So ask yourself...** 🤔
+**So ask yourself...**
 
 - What are you hoping to get out of this program?
     - Are you willing to dedicate 4 months of your time to learning how to code on a professional level?
@@ -106,9 +104,9 @@ The first step in making sure Fullstack Academy is the right choice for you is b
 
 I would also recommend reaching out to [Fullstack alumni on LinkedIn](https://www.linkedin.com/school/15098574/alumni) and reading up on those reviews to get a better idea of where folks end up after graduating and whether or not they enjoyed the experience.
 
-### [Reviews](#reviews) ⭐⭐⭐⭐⭐
+### Reviews
 
-> From across the interwebs!
+> From across the interwebs! ⭐⭐⭐⭐⭐
 
 -  [Quora](https://www.quora.com/What-is-your-review-of-Fullstack-Academy)
 -  [Course Report](https://www.coursereport.com/schools/fullstack-academy)
@@ -117,9 +115,9 @@ I would also recommend reaching out to [Fullstack alumni on LinkedIn](https://ww
 -  [Thinkful](https://www.thinkful.com/bootcamps/fullstack-academy)
 -  [Facebook](https://www.facebook.com/FullstackAcademy/reviews)
 
-### [Helpful Tips](#helpful-tips) 📌
+### Helpful Tips
 
-- Don’t just apply to one program! Go ahead and use [Course Report](https://www.coursereport.com/) to find programs of all kinds and choose the ones that best suit your long-term goals.
+- Don’t just apply to one program! Go ahead and use [Course Report](https://www.coursereport.com/) to find programs of all kinds and choose the ones that best suit your long-term goals. 📌
 - Avoid [being scammed](https://techcrunch.com/2016/06/25/students-are-demanding-the-facts-about-coding-bootcamps/) and do your research on the program you want to attend. Read reviews, reach out to alumni who come from a similar work/academic background as you, and look up the program on the news for any red flags. After all, you don’t want to pay all that money for nothing! It’s better to try harder and get into a more competitive program with a lower acceptance rate than settle for one that churns students out.
 - If you’re not that familiar with the platform [GitHub](http://github.com/fvcproductions) (where you're reading this now), now is the time to make yourself **extra familiar** ! Regardless of which program you decide to enroll in, you will be probably end up using GitHub **a lot** as a developer. Create a profile and spice it up with open-source contributions or personal projects. A great starter project is a simple personal website [using GitHub pages](https://pages.github.com/) .
 - Make sure to market yourself appropriately! Meaning, if you have done something outside of work that can highlighted as a technical achievement (contributed to open-source, completed a lot/all modules on a platform, top student in STEM major, etc.), make sure to share it online! The only way employers or interviewers can know about how passionate you are about coding is if you share this with them! I would recommend using LinkedIn or your personal website to showcase this kind of information.
@@ -127,16 +125,18 @@ I would also recommend reaching out to [Fullstack alumni on LinkedIn](https://ww
 - Being able to code is a little different from regular typing, so I’d recommend using a platform like [Typing.io](https://typing.io/) to help improve your current typing abilities. Faster and more accurate typing is like a better [REPL](http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) — not only does this speed up development, it fundamentally affects the exploration process.
 - Similar to the tip above, if you know the way around your dev environment really well, you can get things done a lot faster. If you’re using [Sublime Text](https://www.sublimetext.com/) as your main text editor, I would take a look at [Sublime Tutor](https://sublimetutor.com/) which is an interactive in-editor keyboard shortcuts tutorial.
 
-### [Cool Articles](#cool-articles) 📰
+### Cool Articles
+
+> These are all taken from Medium. 📰
 
 - [So that whole coding bootcamp thing is a scam, right?](https://medium.freecodecamp.com/so-that-whole-coding-bootcamp-thing-is-a-scam-right-6fddf14087d4?gi=cc8f0c2cd138#.2wzinpvaz)
 - [I spent 3 months applying to jobs after a coding bootcamp. Here's what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.w0ilixnhp)
 - [Comparing Salaries for Coding Bootcamps vs. Computer Science Degrees - Bloc Weekly](https://medium.com/bloc-posts/comparing-salaries-for-coding-bootcamps-vs-computer-science-degrees-5e735e75c6bc#.bywijxpqt)
 - [How to get the most out of a coding bootcamp. - Women Who Code Community](https://medium.com/women-who-code-community/how-to-get-the-most-out-of-a-coding-bootcamp-77f5cadc7867#.8rpt58bfz)
 
-## [Preparing](#preparing) 📚
+## Preparing
 
-First, take advantage of all the online resources Fullstack Academy recommends!
+> First, take advantage of all the online resources Fullstack Academy recommends! 📚
 
 -  [Codecademy - JavaScript](https://www.codecademy.com/learn/javascript)
     - I would recommend completing all lessons for this track.
@@ -153,13 +153,13 @@ First, take advantage of all the online resources Fullstack Academy recommends!
 -  [A Smarter Way to Learn JavaScript](http://www.asmarterwaytolearn.com/index.html)
     -  [Online Exercises](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
 
-Check out [Quora’s Fullstack Academy topic](https://www.quora.com/topic/Fullstack-Academy) for even more!
+I would check out [Quora’s Fullstack Academy topic](https://www.quora.com/topic/Fullstack-Academy) for even more resources.
 
 Then once you feel like you've got some of that lingo down, start attending more [tech events](https://github.com/fvcproductions/tech-events) like [Meetups](http://meetup.com), hackathons, and conferences. You might end up learning something cool!
 
-### [Resources to Just Learn](#resources-to-just-learn) 🎒
+### Resources to Just Learn
 
-So obviously there are a [TON of free resources](https://www.producthunt.com/search/posts?q=learn%20to%20code) to help you learn to code online.
+So obviously there are a [TON of free resources](https://www.producthunt.com/search/posts?q=learn%20to%20code) to help you learn to code online. 🎒
 
 So **I’m going to exclude the ones I’ve mentioned already above** and just include free to use platforms that are more interactive and focus on technologies taught at Fullstack Academy.
 
@@ -169,9 +169,9 @@ So **I’m going to exclude the ones I’ve mentioned already above** and just i
 -  [Code School](https://www.codeschool.com/)
 -  [Free Code Camp](https://www.freecodecamp.com/)
 
-## [Pricing](#pricing) 💸
+## Pricing
 
-> As of March 2017, the overall prices for the programs are as follows.
+> As of March 2017, the overall prices for the programs are as follows. 💸
 
 - [Fullstack Academy Software Engineering Immersive](https://www.fullstackacademy.com/tuition-cohort-dates) $17,610
 - [Summer of Code](https://www.fullstackacademy.com/summer-of-code#apply): $16,610
@@ -190,9 +190,9 @@ So **I’m going to exclude the ones I’ve mentioned already above** and just i
 - [Remote Immersive Scholarship](https://www.fullstackacademy.com/scholarships/50-states-of-code)
     + Awarding partial and full scholarships for those who successfully complete the application
 
-### [Housing Options](#housing-options) 🏠
+### Housing Options
 
-> For once you get accepted! 😊
+> For once you get accepted! 🏠
 
 > As of March 2017, the starting prices for these are as follows.
 
@@ -214,7 +214,7 @@ So **I’m going to exclude the ones I’ve mentioned already above** and just i
 - Crashing with family or friends
     + Yeah, this is what I did. 😂
 
-## [Contributing](#contributing) 👥
+## Contributing
 
 > To get started...
 
@@ -226,6 +226,6 @@ So **I’m going to exclude the ones I’ve mentioned already above** and just i
 
 Or just [create an issue](https://github.com/fvcproductions/fullstack-me/issues) - any little bit of help counts! 😊
 
-## [Credits](#credits) ©
+## Credits
 
 - [FVCproductions](http://fvcproductions.com) 🍓🍫
